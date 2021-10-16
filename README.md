@@ -8,3 +8,5 @@ Ejercicios que hice durante curso innovaccion
 --uso basico.py : programa sobre el uso basico de python
 
 --pokeapi.py: Programa que muestra la imagen del pokemon que ingresamos con ayuda de la pokeapi
+
+--tutorial instalacion librerias: explicacion de como instalar librerias matplotlib y rquests para python en vscode
