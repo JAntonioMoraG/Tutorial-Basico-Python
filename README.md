@@ -2,3 +2,5 @@
 <h2># Python</h2>
 Tutorial de instalacion de python con vscode 
 Ejercicios que hice durante curso innovaccion 
+
+--Tutorial instalacion: tutorial de como descargar y configurar python con Visual Studio Code en Windows 10
