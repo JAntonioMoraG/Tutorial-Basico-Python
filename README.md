@@ -3,3 +3,4 @@
 Ejercicios que hice durante curso innovaccion 
 
 --Tutorial instalacion: tutorial de como descargar y configurar python con Visual Studio Code en Windows 10
+--uso basico.py : programa sobre el uso basico de python
